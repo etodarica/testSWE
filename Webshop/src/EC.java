@@ -5,6 +5,7 @@ public class EC implements Onlinezahlung {
 		super();
 	}
 	//Testkommentar
+	//Würde ich anders machen
 	@Override
 	public void erzeugeZahlung() {
 		System.out.println("Zahlungsmethode EC.");
