@@ -9,6 +9,8 @@ public class EC implements Onlinezahlung {
 	public void erzeugeZahlung() {
 		System.out.println("Zahlungsmethode EC.");
 
+		System.out.println("Hallo, mein Name ist Roman");
+
 		System.out.println("Hallo, mein Name ist Levi");
 
 		System.out.println("Hallo mein Name ist Dani");
