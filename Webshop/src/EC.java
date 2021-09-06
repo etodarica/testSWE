@@ -11,10 +11,13 @@ public class EC implements Onlinezahlung {
 
 		System.out.println("Hallo, mein Name ist Roman");
 
+		System.out.println("Hallo, mein Name ist Levi");
+
 		System.out.println("Hallo mein Name ist Dani");
 
 		System.out.println("Hallo, mein Name ist Rolf Zanchettin");
-
+		
+		System.out.println("Hallo mein Name ist Nicole");
 
 	}
 
